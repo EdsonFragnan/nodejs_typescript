@@ -1,1 +1,1 @@
-# nodejs_typescript_typeorm
+# nodejs_typescript
